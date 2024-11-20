@@ -8,4 +8,4 @@ Welcome to my GitHub profile! I'm a senior front-end/fullstack developer based i
 ## 📫 How to reach me
 
 - **Email**: saman.kefayatpour@gmail.com
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/samankefayatpour/)
+- **LinkedIn**: https://www.linkedin.com/in/samankefayatpour/

@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Saman 👋
+Welcome to my GitHub profile! I'm a senior front-end/fullstack developer based in Afyonkarahisar, Turkey
 
-<!--
-**samank8121/samank8121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Technologies
 
-Here are some ideas to get you started:
+- **Frontend Development**:
+  - **React**: Building dynamic and responsive user interfaces.
+  - **Next.js**: Server-side rendering and static site generation.
+  - **Redux**: State management for complex applications.
+  - **React Query**: Data fetching and caching.
+  - **Sass**: CSS preprocessor for writing maintainable styles.
+  - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Development**:
+  - **Node.js**: Building scalable server-side applications.
+  - **TypeScript**: Strongly typed JavaScript for better code quality.
+  - **JavaScript**: The language of the web.
+
+- **AI and Machine Learning**:
+  - **OpenAI**: Integrating AI capabilities into applications.
+
+## 📫 How to reach me
+
+- **Email**: saman.kefayatpour@gmail.com
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/samankefayatpour/)

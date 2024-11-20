@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a senior front-end/fullstack developer based i
 
 ## Skills and Technologies
 
-  **React**, **Next.js**, **Redux**, **React Query**, **Sass**, **Tailwind CSS**, **Node.js**, **TypeScript**, **JavaScript**
+  **React**, **Next.js**, **TypeScript**, **Node.js**, **Redux**, **React Query**, **Sass**, **Tailwind CSS**, **JavaScript**
 
 ## 📫 How to reach me
 

@@ -28,6 +28,9 @@ Welcome to my GitHub profile! I'm a senior front-end/fullstack developer based i
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://graphql.org/">
     <img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
   </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.prisma.io/">
+    <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://jestjs.io/">
     <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
   </a>

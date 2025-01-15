@@ -1,4 +1,4 @@
-# Hi there, I'm Saman 👋
+# Hi there, I'm Saman
 Welcome to my GitHub profile! I'm a senior front-end/fullstack developer based in Afyonkarahisar, Turkey
 
 ## Skills and Technologies

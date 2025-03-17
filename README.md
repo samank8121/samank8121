@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a senior front-end/fullstack developer based i
     <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://reactnative.dev/">
-    <img src="https://img.shields.io/badge/react%20native-%2300B8D8.svg?style=flat-square&logo=react-native&logoColor=white" alt="React Native" />
+    <img src="https://img.shields.io/badge/React%20Native-%2300B8D8.svg?style=flat-square&logo=react-native&logoColor=white" alt="React Native" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />

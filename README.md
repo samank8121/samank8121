@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a senior front-end/fullstack developer based i
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com/">
-    <img src=" https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=fff&style=flat alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=fff&style=flat" alt="Express.js"/>
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
